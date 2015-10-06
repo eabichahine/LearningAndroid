@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Application 14</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bacon">Bacon</string>
+    <string name="applesButtonString">Go To Bacon</string>
+    <string name="applesTextString">Welcome To Apples</string>
+    <string name="baconButtonString">Go To Apples</string>
+    <string name="baconTextString">Welcome To Bacon</string>
+</resources>
